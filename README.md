@@ -1,6 +1,6 @@
-# The following is an Accept a payment
 
-In This example it shows how to accept a payment with Stripe Elements using ASP.NET Webforms.
+
+# In This example it shows how to accept a payment with Stripe Elements using ASP.NET Webforms.
 
 1 Update Global.asax.cs with your Secret API key
 
